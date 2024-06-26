@@ -1,6 +1,8 @@
 p {
   background-color: rgb(16, 139, 248);
-  font-size: 40px;
+  font-size: 32px;
+  border: 5px solid black;
+  color: black;
 }
 
 .site-content {
@@ -10,10 +12,18 @@ p {
 
 .input-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
+input {
+    margin-right: auto;
+    margin-left: 30px;
+}
+
 label {
+    margin-left: auto;
     font-size: 40px;
 }
+
+
