@@ -1,0 +1,23 @@
+.paragraph-1 {
+  text-align: left;
+}
+
+.paragraph-2 {
+  text-align: center;
+}
+
+.paragraph-3 {
+  text-align: right;
+}
+
+.paragraph-4 {
+  text-align: justify;
+}
+
+.paragraph-5 {
+  text-align: start;
+}
+
+.paragraph-6 {
+  text-align: end;
+}
