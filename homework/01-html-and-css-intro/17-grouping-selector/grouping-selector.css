@@ -1,0 +1,7 @@
+.site-container {
+    display: flex;
+}
+
+div, p {
+    color:chocolate
+}
