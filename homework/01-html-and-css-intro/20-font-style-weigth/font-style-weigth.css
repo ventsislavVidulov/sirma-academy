@@ -1,0 +1,28 @@
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: large;
+}
+
+#heading-1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#paragraph-1 {
+  font-style: italic;
+}
+
+#paragraph-2 {
+  font-style: oblique;
+}
+
+#paragraph-3 {
+  font-weight: bold;
+}
+
+#paragraph-4 {
+  font-weight: bolder;
+}
+
+#paragraph-5 {
+  font-weight: lighter;
+}
