@@ -1,0 +1,22 @@
+.red-text-paragraph {
+  color: red;
+}
+
+.picture-plus-paragraph-container {
+  display: flex;
+}
+
+.paragraph-besides-picture {
+  color: green;
+  width: 300px;
+  margin-left: 30px;
+}
+
+#unique-span-id {
+  font-size: 42px;
+  color: black;
+}
+
+* {
+  color: chocolate;
+}
