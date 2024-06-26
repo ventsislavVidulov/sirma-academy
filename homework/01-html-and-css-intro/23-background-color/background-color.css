@@ -1,0 +1,19 @@
+p {
+  background-color: rgb(16, 139, 248);
+  font-size: 40px;
+}
+
+.site-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    font-size: 40px;
+}
