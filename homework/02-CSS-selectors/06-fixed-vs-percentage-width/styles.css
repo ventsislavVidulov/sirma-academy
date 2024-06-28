@@ -1,0 +1,9 @@
+.pixel-width {
+    width: 300px;
+    border: 1px solid black;
+}
+
+.percentage-width {
+    width: 50%;
+    border: 1px solid black;
+}
